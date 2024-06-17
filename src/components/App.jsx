@@ -18,8 +18,8 @@ function App() {
                     <li className="todo-item-container">
                         <div className="todo-item">
                             <input type="checkbox" />
-                            <span className="todo-item-label">Finish React Series</span>
-                            {/* <input type="text" className="todo-item-input" value="Finish React Series" /> */}
+                            <span className="todo-item-label">Learn React</span>
+                            {/* <input type="text" className="todo-item-input" value="Learn React" /> */}
                         </div>
                         <button className="x-button">
                             <svg
